@@ -253,22 +253,36 @@ Done
 
 Agentic-AI-Mail-Assistant/
 │
+
 ├── frontend/
+
 │   ├── src/
+
 │   │   ├── components/
+
 │   │   ├── assets/
+
 │   │   ├── App.jsx
-│   └── index.html
+
 │
+└── index.html
 │
+
+│
+
 ├── backend/
+
 │   ├── app.py
+
 │   ├── email_agent.py
+
 │   ├── contact.json (NOT pushed)
+
 │   └── credentials.json (NOT pushed)
+
 │
-├── README.md
-└── .gitignore
+
+└── README.md
 
 ---
 

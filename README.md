@@ -10,7 +10,7 @@ An end-to-end **Agentic AI Email System** powered by a 7B LLM that can:
 - 📬 Maintain sent email history  
 - 📱 Fully responsive UI  
 
-🌍 **Live Demo:** [agentic-ai-frontend-red.vercel.app](agentic-ai-frontend-red.vercel.app)
+🌍 **Live Demo:** [https://agentic-ai-frontend-red.vercel.app/](https://agentic-ai-frontend-red.vercel.app/)
 ---
 
 ## 🧠 Architecture Overview
